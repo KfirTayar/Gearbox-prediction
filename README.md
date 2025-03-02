@@ -8,7 +8,6 @@ A **web crawler** was developed to collect a dataset, which is then used for **d
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Results](#results)
-- [License](#license)
 
 ## Project Overview
 
@@ -40,6 +39,3 @@ It includes the following **features**:
 
 **Best Model Performance:**
 The best model achieved an accuracy of 90%, successfully classifying cars into Automatic, Manual, or Tiptronic.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
