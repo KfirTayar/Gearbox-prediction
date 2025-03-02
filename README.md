@@ -7,12 +7,7 @@ A **web crawler** was developed to collect a dataset, which is then used for **d
 
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Machine Learning Models](#machine-learning-models)
-- [Project Structure](#project-structure)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
@@ -41,9 +36,10 @@ It includes the following **features**:
 | **IsSaved**   | If the car is marked as saved (1 = Yes, 0 = No)  |
 | **WithoutAccidents** | Whether the car has accident history (1 = No accidents, 0 = Had accidents) |
 
-## Installation
-
 ## Results
 
 **Best Model Performance:**
 The best model achieved an accuracy of 90%, successfully classifying cars into Automatic, Manual, or Tiptronic.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
