@@ -43,9 +43,7 @@ It includes the following **features**:
 
 ## Installation
 
-To run this project, follow these steps:
+## Results
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/KfirTayar/Gearbox-prediction.git
-   cd Gearbox-prediction
+**Best Model Performance:**
+The best model achieved an accuracy of 90%, successfully classifying cars into Automatic, Manual, or Tiptronic.
